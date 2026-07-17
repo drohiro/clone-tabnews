@@ -11,6 +11,11 @@ export default function Home() {
           async
           type="text/javascript"
         ></script>
+        <script
+          src="//collect.vendavalida.com.br/helpers/vvcheckout.js"
+          async
+          type="text/javascript"
+        ></script>
       </Head>
 
       <main>
